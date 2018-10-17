@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e1277ea-00b6-425f-9625-31584cda22c8" name="Default Changelist" comment="" />
+    <list default="true" id="4e1277ea-00b6-425f-9625-31584cda22c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hw/3/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw/3/gcd.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,22 +19,23 @@
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="5" />
           <entry key="js" value="2" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="5" />
           <entry key="JavaScript" value="2" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -40,7 +43,7 @@
           <entry key="Python Console" value="2" />
           <entry key="html" value="93" />
           <entry key="js" value="5" />
-          <entry key="py" value="272" />
+          <entry key="py" value="275" />
           <entry key="txt" value="26" />
         </counts>
       </usages-collector>
@@ -49,23 +52,33 @@
           <entry key="HTML" value="93" />
           <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="274" />
+          <entry key="Python" value="277" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
           <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.compare" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+            <state relative-caret-position="558">
+              <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw/3/gcd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -92,6 +105,7 @@
         <option value="$PROJECT_DIR$/hw/2/hw2.py" />
         <option value="$PROJECT_DIR$/hw3.html" />
         <option value="$PROJECT_DIR$/js/hw3.js" />
+        <option value="$PROJECT_DIR$/hw/3/gcd.py" />
       </list>
     </option>
   </component>
@@ -291,8 +305,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+        <state relative-caret-position="558">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw/3/gcd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
